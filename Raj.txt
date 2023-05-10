@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 this is deficult for us    nkjhsdkjfn ,mdnaw   bvkjhhjh as,   hjchzmn   b zzjz,mn   mZZhcm,h  
+=======
+this is deficult for us
+kjhkjhgfhgdfhgvfgf 
+htyfythfhgfhjfj
+jhtfhyhgfhghgfh
+jgfhhg
+some new messages
+some new changes 
+>>>>>>> ab385665dbca447aa1625039d11167fe395e1bba
 
